@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "MiddlewareTest.Controllers.TestController",
+    "Method": "HealthCheck",
+    "RelativePath": "health-check",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MiddlewareTest.Controllers.TestController",
+    "Method": "Hello",
+    "RelativePath": "hello",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

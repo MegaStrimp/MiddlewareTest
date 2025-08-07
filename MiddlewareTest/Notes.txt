@@ -1,0 +1,19 @@
+﻿-----------------------------------------------------
+A simple .net middleware project that returns for '/hello' & '/health-check
+
+The middleware runs before every request reaches the controller. It's used for logging and security
+Swagger automatically documents the entire API and helps with testing every endpoint (url) interactively
+-----------------------------------------------------
+> Created an ASP.NET API project
+-----------------------------------------------------
+> Added 'Swashbuckle.AspNetCore' library to MiddlewareTest
+
+> Created 'MiddlewareTest/Controllers/TestController.cs'. (public class)
+	(It's a ControllerBase, which comes without views)
+
+> Created 'MiddlewareTest/Middleware/TestMiddleware.cs'. (public class)
+
+> Registered 'TestMiddleware' in Program.cs
+> Registered Swagger in Program.cs and made it so it only runs in dev-mode
+-----------------------------------------------------
+> Added a feature to log connections in 'TestMiddleware.cs'

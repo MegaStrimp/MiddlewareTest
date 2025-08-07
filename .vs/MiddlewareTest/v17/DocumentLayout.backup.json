@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MegaStrimp\\Desktop\\New folder\\MiddlewareTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A58795D-BD76-4F85-8B80-86D2B4713A68}|MiddlewareTest\\MiddlewareTest.csproj|c:\\users\\megastrimp\\desktop\\new folder\\middlewaretest\\middlewaretest\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0A58795D-BD76-4F85-8B80-86D2B4713A68}|MiddlewareTest\\MiddlewareTest.csproj|solutionrelative:middlewaretest\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A58795D-BD76-4F85-8B80-86D2B4713A68}|MiddlewareTest\\MiddlewareTest.csproj|c:\\users\\megastrimp\\desktop\\new folder\\middlewaretest\\middlewaretest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A58795D-BD76-4F85-8B80-86D2B4713A68}|MiddlewareTest\\MiddlewareTest.csproj|solutionrelative:middlewaretest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A58795D-BD76-4F85-8B80-86D2B4713A68}|MiddlewareTest\\MiddlewareTest.csproj|c:\\users\\megastrimp\\desktop\\new folder\\middlewaretest\\middlewaretest\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A58795D-BD76-4F85-8B80-86D2B4713A68}|MiddlewareTest\\MiddlewareTest.csproj|solutionrelative:middlewaretest\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A58795D-BD76-4F85-8B80-86D2B4713A68}|MiddlewareTest\\MiddlewareTest.csproj|c:\\users\\megastrimp\\desktop\\new folder\\middlewaretest\\middlewaretest\\middleware\\testmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A58795D-BD76-4F85-8B80-86D2B4713A68}|MiddlewareTest\\MiddlewareTest.csproj|solutionrelative:middlewaretest\\middleware\\testmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\MegaStrimp\\Desktop\\New folder\\MiddlewareTest\\MiddlewareTest\\Middleware\\TestMiddleware.cs",
+              "RelativeDocumentMoniker": "MiddlewareTest\\Middleware\\TestMiddleware.cs",
+              "ToolTip": "C:\\Users\\MegaStrimp\\Desktop\\New folder\\MiddlewareTest\\MiddlewareTest\\Middleware\\TestMiddleware.cs",
+              "RelativeToolTip": "MiddlewareTest\\Middleware\\TestMiddleware.cs",
+              "ViewState": "AgIAAAkAAADAZ2ZmZmYTwAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T07:28:43.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MegaStrimp\\Desktop\\New folder\\MiddlewareTest\\MiddlewareTest\\Program.cs",
+              "RelativeDocumentMoniker": "MiddlewareTest\\Program.cs",
+              "ToolTip": "C:\\Users\\MegaStrimp\\Desktop\\New folder\\MiddlewareTest\\MiddlewareTest\\Program.cs",
+              "RelativeToolTip": "MiddlewareTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T07:25:12.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Notes.txt",
+              "DocumentMoniker": "C:\\Users\\MegaStrimp\\Desktop\\New folder\\MiddlewareTest\\MiddlewareTest\\Notes.txt",
+              "RelativeDocumentMoniker": "MiddlewareTest\\Notes.txt",
+              "ToolTip": "C:\\Users\\MegaStrimp\\Desktop\\New folder\\MiddlewareTest\\MiddlewareTest\\Notes.txt",
+              "RelativeToolTip": "MiddlewareTest\\Notes.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-07T07:24:19.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\MegaStrimp\\Desktop\\New folder\\MiddlewareTest\\MiddlewareTest\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "MiddlewareTest\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\MegaStrimp\\Desktop\\New folder\\MiddlewareTest\\MiddlewareTest\\Controllers\\TestController.cs",
+              "RelativeToolTip": "MiddlewareTest\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAABgmZmZmRkqwBEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T07:22:17.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
